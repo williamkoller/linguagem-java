@@ -15,7 +15,7 @@ public class Mercadoria {
 
     result = valor_1 + valor_2;
 
-    System.out.println("O valor do desconto eh: " + result  / 100 * 25);
+    System.out.println("O resultado eh: " + result + "O valor do desconto eh: " + result  / 100 * 25);
     mercadoria.close();
 
   }
